@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tugas1cloudcomputing/static/css/main.de7f6c85.css",
+    "main.css": "/tugas1cloudcomputing/static/css/main.f2807cc8.css",
     "main.js": "/tugas1cloudcomputing/static/js/main.a9edb108.js",
     "static/js/787.ac74ecf2.chunk.js": "/tugas1cloudcomputing/static/js/787.ac74ecf2.chunk.js",
     "index.html": "/tugas1cloudcomputing/index.html",
-    "main.de7f6c85.css.map": "/tugas1cloudcomputing/static/css/main.de7f6c85.css.map",
+    "main.f2807cc8.css.map": "/tugas1cloudcomputing/static/css/main.f2807cc8.css.map",
     "main.a9edb108.js.map": "/tugas1cloudcomputing/static/js/main.a9edb108.js.map",
     "787.ac74ecf2.chunk.js.map": "/tugas1cloudcomputing/static/js/787.ac74ecf2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de7f6c85.css",
+    "static/css/main.f2807cc8.css",
     "static/js/main.a9edb108.js"
   ]
 }
